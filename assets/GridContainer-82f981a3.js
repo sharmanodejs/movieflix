@@ -1,0 +1,1 @@
+import{j as r,c as i}from"./index-b520193f.js";const d=s=>r.jsx("div",{className:i("grid  md:grid-cols-5 sm:grid-cols-4 xs:grid-cols-3 grid-cols-2 lg:grid-cols-6 mt-8",s.className),children:s.children});export{d as G};
