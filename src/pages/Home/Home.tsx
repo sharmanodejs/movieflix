@@ -87,7 +87,7 @@ const Home = (props: Props) => {
                 <section className="about py-3">
                     <Wrapper>
                         <h2 className='text-light-gray text-xl'>Watch Movies Online Free</h2>
-                        <p className='text-light-gray text-xs sm:text-sm mt-2'><span className='text-white text-sm'>Movie<span className='text-dark-teal'>Flix</span></span> - Just a better place to watch movies online for free. It allows you to watch movies online in high quality for free. No registration is required. The content is updated daily with fast streaming servers, multi-language subtitles supported. Just open fmovies.to and watch your favorite movies, tv-shows. We have almost any movie, tv-shows you want to watch!</p>
+                        <p className='text-light-gray text-xs sm:text-sm mt-2'><span className='text-white text-sm'>FreeHindi<span className='text-dark-teal'>MoviesHD</span></span> - Just a better place to watch movies online for free. It allows you to watch movies online in high quality for free. No registration is required. The content is updated daily with fast streaming servers, multi-language subtitles supported. Just open fmovies.to and watch your favorite movies, tv-shows. We have almost any movie, tv-shows you want to watch!</p>
                         <p className='text-light-gray mt-2 text-xs sm:text-sm'>Please help us by sharing this site with your friends. Thanks!</p>
                         <SocialList className='mt-2' />
                     </Wrapper>
